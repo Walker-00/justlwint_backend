@@ -4998,9 +4998,9 @@ checksum = "13c2bddecc57b384dee18652358fb23172facb8a2c51ccc10d74c157bdea3292"
 
 [[package]]
 name = "surrealdb"
-version = "2.3.0"
+version = "2.3.8"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "8b9f7f8154fa85c96e9a3339477512b3249e4bbfd503b122a867e8f3abdad456"
+checksum = "1fbeaedd4adfe4e35a02a61d115aa3e954982177d9f474bb058c62fa26f0ead5"
 dependencies = [
  "arrayvec",
  "async-channel",
@@ -5040,9 +5040,9 @@ dependencies = [
 
 [[package]]
 name = "surrealdb-core"
-version = "2.3.0"
+version = "2.3.8"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "6ec1aa60b00aff1958e8b56130398d531f403d88379987bd3fa5e368f92eac5d"
+checksum = "2046c9e87609416021220545c2dc80eacb7feda66055633a6db0b0b9174d3406"
 dependencies = [
  "addr",
  "affinitypool",
