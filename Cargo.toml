@@ -34,7 +34,7 @@ lazy_static = "1.5.0"
 mime = "0.3.17"
 paperclip = { version = "0.9.4", features = ["actix4", "v3"] }
 radix_trie = "0.2.1"
-rand = "0.9.0"
+rand = "0.9.3"
 rayon = "1.10.0"
 rust-argon2 = "2.1.0"
 rustls = "0.23.22"
